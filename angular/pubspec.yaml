@@ -9,6 +9,8 @@ environment:
 dependencies:
   angular: ^5.3.1
   angular_components: ^0.13.0+1
+  core:
+    path: ../core
 
 dev_dependencies:
   angular_test: ^2.3.0
